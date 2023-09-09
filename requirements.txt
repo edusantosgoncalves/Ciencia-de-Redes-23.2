@@ -1,3 +1,5 @@
 networkx[default]
+numpy
 pandas
+matplotlib
 requests
