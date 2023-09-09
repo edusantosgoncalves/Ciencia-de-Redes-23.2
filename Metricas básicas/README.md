@@ -10,3 +10,5 @@
 - Quantidade de nós na maior componente conexa: 37700
 - Tamanho médio de componentes isoladas: Não possui componentes isoladas!
 - Coeficiente de clusterização do Grafo: 0.1675
+- Distribuição de graus:
+  ![1694222285999](distribuicao_graus.png)
