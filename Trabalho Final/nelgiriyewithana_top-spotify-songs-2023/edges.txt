@@ -1,0 +1,705 @@
+Latto;Jung Kook;{}
+Jung Kook;Charlie Puth;{}
+Jung Kook;BTS;{}
+Jung Kook;FIFA Sound;{}
+Myke Towers;Feid;{}
+Myke Towers;Sky Rompiendo;{}
+Myke Towers;Quevedo;{}
+Myke Towers;Anuel Aa;{}
+Myke Towers;Jhay Cortez;{}
+Taylor Swift;Ice Spice;{}
+Taylor Swift;Lana Del Rey;{}
+Taylor Swift;Ed Sheeran;{}
+Bad Bunny;Grupo Frontera;{}
+Bad Bunny;Tainy;{}
+Bad Bunny;Chencho Corleone;{}
+Bad Bunny;Eladio Carrion;{}
+Bad Bunny;Arcangel;{}
+Bad Bunny;Nengo Flow;{}
+Bad Bunny;Gorillaz;{}
+Bad Bunny;J Balvin;{}
+Bad Bunny;Jhay Cortez;{}
+Bad Bunny;Rauw Alejandro;{}
+Bad Bunny;Julieta Venegas;{}
+Bad Bunny;Aventura;{}
+Bad Bunny;Sech;{}
+Bad Bunny;Mora;{}
+Bad Bunny;Nio Garcia;{}
+Bad Bunny;Daddy Yankee;{}
+Bad Bunny;Tony Dize;{}
+Bad Bunny;Buscabulla;{}
+Bad Bunny;The Marï¿½ï;{}
+Dave;Central Cee;{}
+Eslabon Armado;Peso Pluma;{}
+Peso Pluma;Yng Lvcas;{}
+Peso Pluma;Gabito Ballesteros;{}
+Peso Pluma;Junior H;{}
+Peso Pluma;Bizarrap;{}
+Peso Pluma;Grupo Frontera;{}
+Peso Pluma;Sog;{}
+Peso Pluma;Ryan Castro;{}
+Peso Pluma;Natanael Cano;{}
+Peso Pluma;Becky G;{}
+Peso Pluma;BLESSD;{}
+Peso Pluma;Fuerza Regida;{}
+Peso Pluma;Luis R Conriquez;{}
+Quevedo;Bizarrap;{}
+Quevedo;Feid;{}
+Quevedo;Mora;{}
+Quevedo;Saiko;{}
+Quevedo;Jhayco;{}
+Quevedo;Karol G;{}
+Quevedo;La Pantera;{}
+Quevedo;Juseph;{}
+Quevedo;Cruz Cafunï¿½ï¿½;{}
+Quevedo;Bï¿½ï¿½jo;{}
+Quevedo;Abhir Hathi;{}
+Quevedo;De La Ghetto;{}
+Quevedo;Duki;{}
+Quevedo;Ovy On The Drums;{}
+Gunna;Young Thug;{}
+Gunna;Future;{}
+Gunna;21 Savage;{}
+Gunna;Lil Baby;{}
+Grupo Frontera;Yahritza Y Su Esencia;{}
+Grupo Frontera;Carin Leon;{}
+Grupo Frontera;Fuerza Regida;{}
+Grupo Frontera;Grupo Marca Registrada;{}
+SZA;Don Toliver;{}
+SZA;Phoebe Bridgers;{}
+SZA;Travis Scott;{}
+SZA;Doja Cat;{}
+Billie Eilish;Khalid;{}
+Feid;Young Miko;{}
+Feid;Sky Rompiendo;{}
+Feid;Ozuna;{}
+Feid;Yandel;{}
+Feid;Mora;{}
+Feid;Saiko;{}
+Feid;Nicky Jam;{}
+Feid;Sean Paul;{}
+Feid;Alejo;{}
+Feid;Robi;{}
+Feid;De La Ghetto;{}
+Feid;Polima WestCoast;{}
+Feid;Paloma Mami;{}
+Feid;Pailita;{}
+Feid;Paulo Londra;{}
+Feid;Sech;{}
+Feid;Jhayco;{}
+Jimin;Kodak Black;{}
+Jimin;NLE Choppa;{}
+Jimin;Muni Long;{}
+Jimin;JVKE;{}
+Jimin;TAEYANG;{}
+Jimin;HA SUNG WOON;{}
+Gabito Ballesteros;Junior H;{}
+Gabito Ballesteros;Natanael Cano;{}
+Junior H;Oscar Maydon;{}
+Junior H;Eden Muï¿½ï;{}
+Junior H;El Chachito;{}
+Junior H;Grupo Marca Registrada;{}
+Bizarrap;Rauw Alejandro;{}
+Bizarrap;Shakira;{}
+Bizarrap;Arcangel;{}
+Bizarrap;Tiago pzk;{}
+Bizarrap;Residente;{}
+Bizarrap;Paulo Londra;{}
+Bizarrap;Villano Antillano;{}
+The Weeknd;Madonna;{}
+The Weeknd;Playboi Carti;{}
+The Weeknd;21 Savage;{}
+The Weeknd;Metro Boomin;{}
+The Weeknd;Daft Punk;{}
+The Weeknd;Ariana Grande;{}
+The Weeknd;Lana Del Rey;{}
+The Weeknd;Future;{}
+The Weeknd;Gesaffelstein;{}
+The Weeknd;Tyler;{}
+The Weeknd;The Creator;{}
+The Weeknd;Lil Wayne;{}
+The Weeknd;Post Malone;{}
+The Weeknd;Swedish House Mafia;{}
+The Weeknd;Doja Cat;{}
+The Weeknd;ROSALï¿½;{}
+Madonna;Playboi Carti;{}
+Fuerza Regida;Natanael Cano;{}
+Fuerza Regida;Chino Pacas;{}
+Rï¿½ï¿½ma;Selena G;{}
+Tainy;Julieta Venegas;{}
+Morgan Wallen;Lil Durk;{}
+Morgan Wallen;Eric Church;{}
+Dua Lipa;Elton John;{}
+Dua Lipa;Pnau;{}
+Dua Lipa;Calvin Harris;{}
+Dua Lipa;DaBaby;{}
+Dua Lipa;Sean Paul;{}
+Dua Lipa;Megan Thee Stallion;{}
+Dua Lipa;Young Thug;{}
+21 Savage;Metro Boomin;{}
+21 Savage;Drake;{}
+21 Savage;Travis Scott;{}
+21 Savage;Project Pat;{}
+21 Savage;Pharrell Williams;{}
+21 Savage;Tyler;{}
+21 Savage;The Creator;{}
+Metro Boomin;Future;{}
+Metro Boomin;Don Toliver;{}
+Metro Boomin;Swae Lee;{}
+Metro Boomin;A Boogie Wit da Hoodie;{}
+Metro Boomin;NAV;{}
+Metro Boomin;Travis Scott;{}
+Metro Boomin;Young Thug;{}
+Metro Boomin;A$AP Rocky;{}
+Metro Boomin;Roisee;{}
+Metro Boomin;Lil Wayne;{}
+Metro Boomin;Offset;{}
+Metro Boomin;Coi Leray;{}
+Metro Boomin;Lil Uzi Vert;{}
+Metro Boomin;Chris Brown;{}
+Metro Boomin;James Blake;{}
+Metro Boomin;WizKid;{}
+Metro Boomin;Toian;{}
+Metro Boomin;Beam;{}
+Metro Boomin;John Legend;{}
+Karol G;Shakira;{}
+Karol G;Romeo Santos;{}
+Karol G;Ovy On The Drums;{}
+Karol G;Maldy;{}
+Karol G;Becky G;{}
+Shakira;Ozuna;{}
+Shakira;Rauw Alejandro;{}
+Shakira;David Guetta;{}
+Shakira;Black Eyed Peas;{}
+Big One;Duki;{}
+Big One;Lit Killah;{}
+Big One;Maria Becerra;{}
+Big One;FMK;{}
+Big One;Rusherking;{}
+Big One;Emilia;{}
+Big One;Tiago pzk;{}
+Big One;Ke personajes;{}
+Duki;Lit Killah;{}
+Duki;Maria Becerra;{}
+Duki;FMK;{}
+Duki;Rusherking;{}
+Duki;Emilia;{}
+Duki;Tiago pzk;{}
+Duki;NICKI NICOLE;{}
+Duki;Cris Mj;{}
+Duki;Standly;{}
+Duki;Stars Music Chile;{}
+Duki;De La Ghetto;{}
+Lit Killah;Maria Becerra;{}
+Lit Killah;FMK;{}
+Lit Killah;Rusherking;{}
+Lit Killah;Emilia;{}
+Lit Killah;Tiago pzk;{}
+Lit Killah;NICKI NICOLE;{}
+Maria Becerra;FMK;{}
+Maria Becerra;Rusherking;{}
+Maria Becerra;Emilia;{}
+Maria Becerra;Tiago pzk;{}
+Maria Becerra;NICKI NICOLE;{}
+Maria Becerra;J Balvin;{}
+Maria Becerra;Tini;{}
+FMK;Rusherking;{}
+FMK;Emilia;{}
+FMK;Tiago pzk;{}
+FMK;Ke personajes;{}
+Rusherking;Emilia;{}
+Rusherking;Tiago pzk;{}
+Emilia;Tiago pzk;{}
+Tiago pzk;NICKI NICOLE;{}
+Tiago pzk;Trueno;{}
+Tiago pzk;Ozuna;{}
+Post Malone;Swae Lee;{}
+Post Malone;Doja Cat;{}
+Post Malone;Roddy Ricch;{}
+Swae Lee;A Boogie Wit da Hoodie;{}
+Swae Lee;NAV;{}
+Swae Lee;Lil Wayne;{}
+Swae Lee;Offset;{}
+Bebe Rexha;David Guetta;{}
+David Guetta;Anne-Marie;{}
+David Guetta;Coi Leray;{}
+David Guetta;Ella Henderson;{}
+David Guetta;Becky Hill;{}
+David Guetta;Black Eyed Peas;{}
+Tyler;The Creator;{}
+Tyler;Kali Uchis;{}
+Tyler;Pharrell Williams;{}
+The Creator;Kali Uchis;{}
+The Creator;Pharrell Williams;{}
+Kali Uchis;Amaarae;{}
+Kali Uchis;Moliy;{}
+Nicki Minaj;Aqua;{}
+Nicki Minaj;Ice Spice;{}
+Nicki Minaj;Lil Baby;{}
+Aqua;Ice Spice;{}
+Ice Spice;PinkPantheress;{}
+Daft Punk;Pharrell Williams;{}
+Daft Punk;Nile Rodgers;{}
+Anne-Marie;Coi Leray;{}
+Manuel Turizo;Marshmello;{}
+Manuel Turizo;Sebastian Yatra;{}
+Manuel Turizo;Beï¿½ï;{}
+dennis;MC Kevin o Chris;{}
+Charlie Puth;BTS;{}
+BTS;Coldplay;{}
+BTS;Halsey;{}
+BTS;FIFA Sound;{}
+BTS;Snoop Dogg;{}
+BTS;Benny Blanco;{}
+Rauw Alejandro;ROSALï¿½;{}
+Rauw Alejandro;Brray;{}
+Rauw Alejandro;Lyanno;{}
+Rauw Alejandro;Baby Rasta;{}
+Rauw Alejandro;Chencho Corleone;{}
+Rauw Alejandro;Chris Brown;{}
+Rauw Alejandro;Rvssian;{}
+Rauw Alejandro;Alvaro Diaz;{}
+ROSALï¿½;Wisin & Yandel;{}
+JVKE;Kodak Black;{}
+JVKE;NLE Choppa;{}
+JVKE;Muni Long;{}
+Coldplay;The Chainsmokers;{}
+Sam Smith;Kim Petras;{}
+Sam Smith;Calvin Harris;{}
+Sam Smith;Jessie Reyez;{}
+Em Beihold;Stephen Sanchez;{}
+Mc Livinho;DJ Matt D;{}
+Justin Bieber;The Kid Laroi;{}
+Justin Bieber;Don Toliver;{}
+Justin Bieber;Future;{}
+Justin Bieber;Daniel Caesar;{}
+Justin Bieber;Giveon;{}
+Marshmello;Jonas Brothers;{}
+Marshmello;Khalid;{}
+Marshmello;Juice WRLD;{}
+Chencho Corleone;Nengo Flow;{}
+Chencho Corleone;Anuel Aa;{}
+Chencho Corleone;Chris Jedi;{}
+Ayparia;unxbected;{}
+J. Cole;Lil Durk;{}
+J. Cole;j-hope;{}
+Lil Durk;Kanye West;{}
+Lil Durk;Cardi B;{}
+Future;Don Toliver;{}
+Future;Lil Uzi Vert;{}
+Future;Chris Brown;{}
+Future;Drake;{}
+Future;Tems;{}
+Future;Young Thug;{}
+Don Toliver;WizKid;{}
+Don Toliver;Toian;{}
+Don Toliver;Beam;{}
+Eminem;Dina Rae;{}
+Eminem;Nate Dogg;{}
+Eminem;Dr. Dre;{}
+Eminem;Dido;{}
+Elton John;Pnau;{}
+Elton John;Ed Sheeran;{}
+Elton John;Britney Spears;{}
+Imagine Dragons;League of Legends;{}
+Imagine Dragons;JID;{}
+Imagine Dragons;Arcane;{}
+Kendrick Lamar;Jay Rock;{}
+Kendrick Lamar;Beyoncï¿;{}
+Kendrick Lamar;Baby Keem;{}
+Kendrick Lamar;Blxst;{}
+Kendrick Lamar;Amanda Reifer;{}
+Kendrick Lamar;Sampha;{}
+Kendrick Lamar;Kodak Black;{}
+Kendrick Lamar;Taylour Paige;{}
+Kendrick Lamar;Sam Dew;{}
+Kendrick Lamar;Ghostface Killah;{}
+Kendrick Lamar;Summer Walker;{}
+Kendrick Lamar;Tanna Leone;{}
+Kendrick Lamar;Beth Gibbons;{}
+Jasiel Nuï¿½ï¿½ez;Peso P;{}
+Taiu;Milo j;{}
+Sebastian Yatra;Beï¿½ï;{}
+Calvin Harris;Ellie Goulding;{}
+Calvin Harris;Rihanna;{}
+Calvin Harris;Jessie Reyez;{}
+Calvin Harris;Young Thug;{}
+Calvin Harris;Halsey;{}
+Calvin Harris;Pharrell Williams;{}
+Calvin Harris;Justin Timberlake;{}
+Ray Dalton;Ryan Lewis;{}
+Ray Dalton;Macklemore;{}
+Ryan Lewis;Macklemore;{}
+A Boogie Wit da Hoodie;NAV;{}
+Travis Scott;Young Thug;{}
+Travis Scott;Drake;{}
+Young Thug;Drake;{}
+Sachin-Jigar;Shadab Faridi;{}
+Sachin-Jigar;Altamash Faridi;{}
+Sachin-Jigar;Amitabh Bhattacharya;{}
+Sachin-Jigar;Varun Jain;{}
+Sachin-Jigar;Arijit Singh;{}
+Sachin-Jigar;Amitabha Bhattacharya;{}
+Shadab Faridi;Altamash Faridi;{}
+Shadab Faridi;Amitabh Bhattacharya;{}
+Shadab Faridi;Varun Jain;{}
+Altamash Faridi;Amitabh Bhattacharya;{}
+Altamash Faridi;Varun Jain;{}
+Amitabh Bhattacharya;Varun Jain;{}
+Amitabh Bhattacharya;Pritam;{}
+Amitabh Bhattacharya;Arijit Singh;{}
+Ed Sheeran;Fireboy DML;{}
+Ed Sheeran;Camila Cabello;{}
+Ed Sheeran;J Balvin;{}
+Veigh;Bvga Beatz;{}
+Veigh;Supernova Ent;{}
+Veigh;Prod Malax;{}
+Bvga Beatz;Supernova Ent;{}
+Bvga Beatz;Prod Malax;{}
+Supernova Ent;Prod Malax;{}
+Mc Pedrinho;DJ 900;{}
+Mc Pedrinho;Pedro Sampaio;{}
+Sog;Ryan Castro;{}
+Bomba Estï¿½ï¿½reo;Bad B;{}
+Don Omar;Lucenzo;{}
+Ana Castela;AgroPlay;{}
+Ana Castela;Israel & Rodolffo;{}
+Ana Castela;Melody;{}
+Ana Castela;Dj Chris No Beat;{}
+Bruno Mars;Anderson .Paak;{}
+Bruno Mars;Silk Sonic;{}
+Drake;WizKid;{}
+Drake;Kyla;{}
+Drake;Tems;{}
+Drake;Project Pat;{}
+Drake;DJ Khaled;{}
+Drake;Lil Baby;{}
+Chris Brown;Rvssian;{}
+WizKid;Kyla;{}
+WizKid;Toian;{}
+WizKid;Beam;{}
+A$AP Rocky;Roisee;{}
+Mora;Saiko;{}
+Mora;Sech;{}
+Lil Wayne;Offset;{}
+Offset;JID;{}
+Kodak Black;NLE Choppa;{}
+Kodak Black;Muni Long;{}
+NLE Choppa;Muni Long;{}
+Arijit Singh;Amitabha Bhattacharya;{}
+Arijit Singh;Vishal Dadlani;{}
+Arijit Singh;Sukriti Kakar;{}
+Arijit Singh;Vishal-Shekhar;{}
+Arijit Singh;Shekhar Ravjiani;{}
+Arijit Singh;Kumaar;{}
+Arijit Singh;Pritam;{}
+Becky G;Anitta;{}
+Becky G;Tini;{}
+Abhijay Sharma;Riar Saab;{}
+Semicenk;Doï¿½ï¿½u;{}
+Lil Uzi Vert;sped up nightcore;{}
+Lil Uzi Vert;ARIZONATEARS;{}
+RAYE;070 Shake;{}
+Arcangel;De La Ghetto;{}
+Arcangel;Justin Quiles;{}
+Arcangel;Lenny Tavï¿½ï¿½rez;{}
+Arcangel;Sech;{}
+Arcangel;Dalex;{}
+Arcangel;Dimelo Flow;{}
+Arcangel;Rich Music;{}
+Israel & Rodolffo;Mari Fernandez;{}
+Mari Fernandez;Gustavo Mioto;{}
+Halsey;Suga;{}
+Halsey;The Chainsmokers;{}
+Halsey;Pharrell Williams;{}
+Halsey;Justin Timberlake;{}
+Suga;PSY;{}
+Toian;Beam;{}
+Tini;Steve Aoki;{}
+Tini;La Joaqui;{}
+Tini;L-Gante;{}
+Tini;Anitta;{}
+MC Caverinha;KayBlack;{}
+JID;League of Legends;{}
+JID;Arcane;{}
+Migrantes;LiL CaKe;{}
+Migrantes;Nico Valdi;{}
+LiL CaKe;Nico Valdi;{}
+Mambo Kingz;DJ Luian;{}
+Mambo Kingz;Anuel Aa;{}
+DJ Luian;Anuel Aa;{}
+Anuel Aa;Jhay Cortez;{}
+Anuel Aa;Nengo Flow;{}
+Anuel Aa;Chris Jedi;{}
+Nile Rodgers;LE SSERAFIM;{}
+Nile Rodgers;Pharrell Williams;{}
+Agust D;IU;{}
+Rich The Kid;Matuï¿;{}
+Labrinth;Zendaya;{}
+Cartel De Santa;La Kelly;{}
+TAEYANG;Lisa;{}
+sped up nightcore;ARIZONATEARS;{}
+Jhayco;Sech;{}
+RM;Colde;{}
+Nengo Flow;Chris Jedi;{}
+Nicky Youre;Dazy;{}
+Tiï¿½ï¿½sto;Tate M;{}
+Tiï¿½ï¿½sto;Ava;{}
+Tiï¿½ï¿½sto;Kar;{}
+Kanii;PR1ISVX;{}
+Coolio;L.V.;{}
+NICKI NICOLE;Cris Mj;{}
+NICKI NICOLE;Standly;{}
+NICKI NICOLE;Stars Music Chile;{}
+Cris Mj;Standly;{}
+Cris Mj;Stars Music Chile;{}
+Cris Mj;Ak4:20;{}
+Cris Mj;Pailita;{}
+Standly;Stars Music Chile;{}
+Brray;Lyanno;{}
+Robin Schulz;Oliver Tree;{}
+Oliver Tree;Twisted;{}
+Lady Gaga;Bradley Cooper;{}
+Doja Cat;Tyga;{}
+MC Xenon;Os Gemeos da Putaria;{}
+League of Legends;Arcane;{}
+XXXTENTACION;Kanye West;{}
+J Balvin;Nio Garcia;{}
+Yuridia;Angela Aguilar;{}
+Lil Nas X;Jack Harlow;{}
+Vishal Dadlani;Sukriti Kakar;{}
+Vishal Dadlani;Vishal-Shekhar;{}
+Vishal Dadlani;Shekhar Ravjiani;{}
+Vishal Dadlani;Kumaar;{}
+Vishal Dadlani;Shilpa Rao;{}
+Vishal Dadlani;Caralisa Monteiro;{}
+Sukriti Kakar;Vishal-Shekhar;{}
+Sukriti Kakar;Shekhar Ravjiani;{}
+Sukriti Kakar;Kumaar;{}
+Vishal-Shekhar;Shekhar Ravjiani;{}
+Vishal-Shekhar;Kumaar;{}
+Vishal-Shekhar;Shilpa Rao;{}
+Vishal-Shekhar;Caralisa Monteiro;{}
+Shekhar Ravjiani;Kumaar;{}
+Shekhar Ravjiani;Shilpa Rao;{}
+Shekhar Ravjiani;Caralisa Monteiro;{}
+Kumaar;Shilpa Rao;{}
+Kumaar;Caralisa Monteiro;{}
+Steve Aoki;La Joaqui;{}
+Shilpa Rao;Caralisa Monteiro;{}
+DJ Escobar;MC MENOR SG;{}
+DJ Escobar;MC MENOR HR;{}
+MC MENOR SG;MC MENOR HR;{}
+Skrillex;Flowdan;{}
+Skrillex;Fred again..;{}
+Flowdan;Fred again..;{}
+Lost Frequencies;Calum Scott;{}
+James Hype;Miggy Dela Rosa;{}
+Styrx;utku INC;{}
+Styrx;Thezth;{}
+utku INC;Thezth;{}
+Maroon 5;Wiz Khalifa;{}
+John Lennon;The Harlem Community Choir;{}
+John Lennon;The Plastic Ono Band;{}
+John Lennon;Yoko Ono;{}
+The Harlem Community Choir;The Plastic Ono Band;{}
+The Harlem Community Choir;Yoko Ono;{}
+The Plastic Ono Band;Yoko Ono;{}
+Frank Sinatra;B. Swanson Quartet;{}
+Bing Crosby;John Scott Trotter & His Orchestra;{}
+Bing Crosby;Ken Darby Singers;{}
+John Scott Trotter & His Orchestra;Ken Darby Singers;{}
+Perry Como;The Fontane Sisters;{}
+Perry Como;Mitchell Ayres & His Orchestra;{}
+The Fontane Sisters;Mitchell Ayres & His Orchestra;{}
+Mabel Matiz;Mert Demir;{}
+Dj LK da Escï¿½ï¿½cia;Tchakabum;{}
+Dj LK da Escï¿½ï¿½cia;mc jhenny;{}
+Dj LK da Escï¿½ï¿½cia;M;{}
+Tchakabum;mc jhenny;{}
+Tchakabum;M;{}
+mc jhenny;M;{}
+Gwen Stefani;Blake Shelton;{}
+Cherish;ACRAZE;{}
+Adassa;Mauro Castillo;{}
+Adassa;Stephanie Beatriz;{}
+Adassa;Encanto - Cast;{}
+Adassa;Rhenzy Feliz;{}
+Adassa;Diane Guerrero;{}
+Adassa;Carolina Gaitan;{}
+Mauro Castillo;Stephanie Beatriz;{}
+Mauro Castillo;Encanto - Cast;{}
+Mauro Castillo;Rhenzy Feliz;{}
+Mauro Castillo;Diane Guerrero;{}
+Mauro Castillo;Carolina Gaitan;{}
+Stephanie Beatriz;Encanto - Cast;{}
+Stephanie Beatriz;Rhenzy Feliz;{}
+Stephanie Beatriz;Diane Guerrero;{}
+Stephanie Beatriz;Carolina Gaitan;{}
+Stephanie Beatriz;Olga Merediz;{}
+Encanto - Cast;Rhenzy Feliz;{}
+Encanto - Cast;Diane Guerrero;{}
+Encanto - Cast;Carolina Gaitan;{}
+Encanto - Cast;Olga Merediz;{}
+Rhenzy Feliz;Diane Guerrero;{}
+Rhenzy Feliz;Carolina Gaitan;{}
+Diane Guerrero;Carolina Gaitan;{}
+Ckay;AX'EL;{}
+Ckay;Dj Yo!;{}
+Aitana;zzoilo;{}
+Juan Cruz Toledo;Huilen Toledo;{}
+BoyWithUke;Blackbear;{}
+Xamï¿½ï¿½;Gustah;{}
+Xamï¿½ï¿½;Neo B;{}
+Gustah;Neo B;{}
+Justin Quiles;Lenny Tavï¿½ï¿½rez;{}
+Justin Quiles;BL;{}
+Justin Quiles;De La Ghetto;{}
+Justin Quiles;Sech;{}
+Justin Quiles;Dalex;{}
+Justin Quiles;Dimelo Flow;{}
+Justin Quiles;Rich Music;{}
+Lenny Tavï¿½ï¿½rez;BL;{}
+Lenny Tavï¿½ï¿½rez;De La Ghetto;{}
+Lenny Tavï¿½ï¿½rez;Sech;{}
+Lenny Tavï¿½ï¿½rez;Dalex;{}
+Lenny Tavï¿½ï¿½rez;Dimelo Flow;{}
+Lenny Tavï¿½ï¿½rez;Rich Music;{}
+Shawn Mendes;Camila Cabello;{}
+AX'EL;Dj Yo!;{}
+Anderson .Paak;Silk Sonic;{}
+THE ANXIETY;Willow;{}
+THE ANXIETY;Tyler Cole;{}
+Willow;Tyler Cole;{}
+Willow;Camila Cabello;{}
+Daniel Caesar;Giveon;{}
+NEIKED;Mae Muller;{}
+NEIKED;Polo G;{}
+Mae Muller;Polo G;{}
+Amaarae;Moliy;{}
+Sech;De La Ghetto;{}
+Sech;Dalex;{}
+Sech;Dimelo Flow;{}
+Sech;Rich Music;{}
+24kgoldn;Iann Dior;{}
+Kanye West;Alicia Keys;{}
+Kanye West;Fivio Foreign;{}
+Kanye West;Cardi B;{}
+Prezioso;Gabry Ponte;{}
+Prezioso;LUM!X;{}
+Gabry Ponte;LUM!X;{}
+Marï¿½ï¿½lia Mendonï¿½ï¿½a;George Henrique &;{}
+Marï¿½ï¿½lia Mendonï¿½ï¿½a;Maiara &;{}
+Marï¿½ï¿½lia Mendonï¿½ï¿½a;Hugo & G;{}
+Charli XCX;Jax Jones;{}
+Charli XCX;Joel Corry;{}
+Charli XCX;Saweetie;{}
+Jax Jones;Joel Corry;{}
+Jax Jones;Saweetie;{}
+Jax Jones;MNEK;{}
+Joel Corry;Saweetie;{}
+Sleepy hallow;347aidan;{}
+Baby Keem;Sam Dew;{}
+Riton;Nightcrawlers;{}
+Riton;Mufasa & Hypeman;{}
+Riton;Dopamine;{}
+Nightcrawlers;Mufasa & Hypeman;{}
+Nightcrawlers;Dopamine;{}
+Mufasa & Hypeman;Dopamine;{}
+De La Ghetto;Dalex;{}
+De La Ghetto;Dimelo Flow;{}
+De La Ghetto;Rich Music;{}
+De La Ghetto;Polima WestCoast;{}
+De La Ghetto;Paloma Mami;{}
+De La Ghetto;Pailita;{}
+Dalex;Dimelo Flow;{}
+Dalex;Rich Music;{}
+Dimelo Flow;Rich Music;{}
+Lil Baby;DJ Khaled;{}
+Katy Perry;Alesso;{}
+Dr. Dre;Snoop Dogg;{}
+Dr. Dre;2Pac;{}
+Dr. Dre;Roger;{}
+Snoop Dogg;Benny Blanco;{}
+Alicia Keys;Fivio Foreign;{}
+Mahmood;Blanco;{}
+Intense;AP Dhillon;{}
+Intense;Gurinder Gill;{}
+AP Dhillon;Gurinder Gill;{}
+La Pantera;Juseph;{}
+La Pantera;Cruz Cafunï¿½ï¿½;{}
+La Pantera;Bï¿½ï¿½jo;{}
+La Pantera;Abhir Hathi;{}
+Juseph;Cruz Cafunï¿½ï¿½;{}
+Juseph;Bï¿½ï¿½jo;{}
+Juseph;Abhir Hathi;{}
+Cruz Cafunï¿½ï¿½;Bï¿½ï¿½jo;{}
+Cruz Cafunï¿½ï¿½;Abhir Hathi;{}
+Bï¿½ï¿½jo;Abhir Hathi;{}
+2Pac;Roger;{}
+Luude;Colin Hay;{}
+GODZZ__-;Zakaria;{}
+Mainstreet;Chefin;{}
+Kevin Gates;Juicy J;{}
+Gotye;Kimbra;{}
+AnnenMayKantereit;Giant Rooks;{}
+Alejo;Robi;{}
+Matuï¿½ï¿½;Wiu;{}
+Matuï¿½ï¿½;;{}
+Wiu;;{}
+Ak4:20;Pailita;{}
+Pailita;Polima WestCoast;{}
+Pailita;Paloma Mami;{}
+Luï¿½ï¿½sa Sonza;MC Frog;{}
+Luï¿½ï¿½sa Sonza;Dj Gabriel do Borel;{}
+Luï¿½ï¿½sa Sonza;Davi K;{}
+MC Frog;Dj Gabriel do Borel;{}
+MC Frog;Davi K;{}
+Dj Gabriel do Borel;Davi K;{}
+Pharrell Williams;Justin Timberlake;{}
+Jordan Fisher;Josh Levi;{}
+Jordan Fisher;Finneas O'Connell;{}
+Jordan Fisher;4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red);{}
+Jordan Fisher;Topher Ngo;{}
+Jordan Fisher;Grayson Vill;{}
+Josh Levi;Finneas O'Connell;{}
+Josh Levi;4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red);{}
+Josh Levi;Topher Ngo;{}
+Josh Levi;Grayson Vill;{}
+Finneas O'Connell;4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red);{}
+Finneas O'Connell;Topher Ngo;{}
+Finneas O'Connell;Grayson Vill;{}
+4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red);Topher Ngo;{}
+4*TOWN (From Disney and Pixarï¿½ï¿½ï¿½s Turning Red);Grayson Vill;{}
+Topher Ngo;Grayson Vill;{}
+Blxst;Amanda Reifer;{}
+Ghostface Killah;Summer Walker;{}
+Polima WestCoast;Paloma Mami;{}
+Polima WestCoast;Fran C;{}
+Polima WestCoast;Nickoog Clk;{}
+Polima WestCoast;Pablito Pesadilla;{}
+Luciano;Aitch;{}
+Luciano;Bï¿½;{}
+Shae Gill;Ali Sethi;{}
+Ugly Dray;Tesla Jnr;{}
+BYOR;Imanbek;{}
+Ella Henderson;Becky Hill;{}
+Schï¿½ï¿½rze;DJ R;{}
+L7nnon;DJ Biel do Furduncinho;{}
+L7nnon;Bianca;{}
+DJ Biel do Furduncinho;Bianca;{}
+Mc Vitin Da Igrejinha;MC Tairon;{}
+Mc Vitin Da Igrejinha;DJ Win;{}
+MC Tairon;DJ Win;{}
+Luis R Conriquez;La Adictiva;{}
+Melody;Dj Chris No Beat;{}
+Interplanetary Criminal;Eliza Rose;{}
+Fran C;Nickoog Clk;{}
+Fran C;Pablito Pesadilla;{}
+Nickoog Clk;Pablito Pesadilla;{}
+Rosa Walton;Hallie Coggins;{}
+Aitch;Bï¿½;{}
+MC Ryan SP;Love Funk;{}
+MC Ryan SP;Mc Paiva ZS;{}
+Love Funk;Mc Paiva ZS;{}
+Ludwig Goransson;Foudeqush;{}

@@ -30,7 +30,11 @@ for index, row in df.iterrows():
         continue
 
     artista_tuple = list(cb(artistas_split, 2))
-    grafo.add_edges_from(artista_tuple, label=track_name)
+    artista_tuple = [
+        artista for artista in artista_tuple if artista[0] != artista[1]
+    ]  # Limpando relações de artistas com si mesmos
+    if len(artista_tuple) > 0:
+        grafo.add_edges_from(artista_tuple)  # , label=track_name)
 
 # * Exportando nos
 # Convertendo lista de nos num dataframe
