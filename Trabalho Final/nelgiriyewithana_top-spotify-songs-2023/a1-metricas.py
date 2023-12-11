@@ -3,6 +3,7 @@ import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
+import json
 
 # * Lendo arquivo da rede do git
 grafo = nx.read_edgelist(
@@ -60,6 +61,27 @@ print(f"Densidade: {densidade}")
 print(f"Cluster global: {coef_clusterizacao_global}")
 print(f"Cluster médio: {coef_clusterizacao_local}")
 
+# ! Plotando distribuição de graus em log
+# . Plotando distribuição de graus
+distribuicao_graus = nx.degree_histogram(grafo)
+
+# . Criando lista de graus correspondentes aos índices na distribuição
+graus = list(range(len(distribuicao_graus)))
+
+# . Plotando a distribuição de graus em um gráfico de pontos
+plt.scatter(graus, distribuicao_graus, marker="o")
+plt.xscale(
+    "log"
+)  # . Definindo que o grafico seja plotado em escala logarítmica no eixo x
+plt.yscale(
+    "log"
+)  # . Definindo que o grafico seja plotado em escala logarítmica no eixo y
+plt.xlabel("Grau")
+plt.ylabel("Contagem")
+plt.title("Distribuição de Graus em Escala Logarítmica")
+plt.show()
+
+
 # * Plotando centralidade de grau:
 centralidade_grau = dict(
     sorted(centralidade_grau.items(), key=lambda item: item[1], reverse=True)
@@ -73,6 +95,7 @@ top_15_nos_centralidade_grau = {
 valores_centralidade_grau = [
     top_15_nos_centralidade_grau[node] for node in top_15_nos_centralidade_grau
 ]
+
 
 # Plote um gráfico de barras da centralidade de grau
 plt.figure()
@@ -115,7 +138,7 @@ plt.xticks(
 # plt.show()
 
 
-# * Plotando centralidade de betweness:
+# * Plotando centralidade de proximidade:
 centralidade_proximidade = dict(
     sorted(centralidade_proximidade.items(), key=lambda item: item[1], reverse=True)
 )
@@ -152,8 +175,103 @@ plt.title("Rede de colaboração de artistas charteados no Spotify (2013)")
 plt.show()
 # plt.show()
 
-"""
+
 print(f"Coeficiente de centralidade de grau: {centralidade_grau}")
 print(f"Coeficiente de centralidade de proximidade: {centralidade_proximidade}")
 print(f"Coeficiente de centralidade de betweeness: {centralidade_betweness}")
-"""
+
+
+# ! Tentando verificar comunidades com todo o grafo
+# * Plotando comunidades
+comunidades_todo = nx.algorithms.community.girvan_newman(grafo)
+
+# Extraia as comunidades do objeto gerado pelo algoritmo
+comunidades_todo = tuple(sorted(c) for c in next(comunidades_todo))
+
+# Crie um dicionário onde as chaves são os nós e os valores são os números das comunidades
+comunidades_todo_dict = {
+    node: i for i, com in enumerate(comunidades_todo) for node in com
+}
+
+# Gere cores diferentes para cada comunidade
+cores_todo = [comunidades_todo_dict[node] for node in grafo.nodes()]
+
+# Exportando dict de comunidades
+with open("comunidades_todo.json", "w") as fp:
+    json.dump(comunidades_todo_dict, fp)
+
+# Desenhe o grafo com cores diferentes para cada comunidade
+pos = nx.spring_layout(grafo)  # Layout para posicionar os nós
+nx.draw(grafo, pos, node_color=cores_todo, with_labels=False)
+
+# Mostre o plot
+plt.show()
+
+# ! Verificando comunidades removendo os nós isolados
+# Removendo nós isolados
+isolados = list(nx.isolates(grafo))
+grafo_isolados = grafo.copy()
+grafo_isolados.remove_nodes_from(isolados)
+
+# * Plotando comunidades
+comunidades_isolados = nx.algorithms.community.girvan_newman(grafo_isolados)
+
+# Extraia as comunidades do objeto gerado pelo algoritmo
+comunidades_isolados = tuple(sorted(c) for c in next(comunidades_isolados))
+
+# Crie um dicionário onde as chaves são os nós e os valores são os números das comunidades
+comunidades_isolados_dict = {
+    node: i for i, com in enumerate(comunidades_isolados) for node in com
+}
+
+# Gere cores diferentes para cada comunidade
+cores_isolados = [comunidades_isolados_dict[node] for node in grafo_isolados.nodes()]
+
+# Exportando dict de comunidades
+with open("comunidades_isolados.json", "w") as fp:
+    json.dump(comunidades_isolados_dict, fp)
+
+# Desenhe o grafo com cores diferentes para cada comunidade
+pos = nx.spring_layout(grafo_isolados)  # Layout para posicionar os nós
+nx.draw(grafo_isolados, pos, node_color=cores_isolados, with_labels=False)
+
+# Mostre o plot
+plt.show()
+
+
+# ! Verificando comunidades com a maior componente conexa
+# Obter o maior componente conexo
+componentes_conexos = nx.connected_components(grafo)
+maior_componente = max(componentes_conexos, key=len)
+sub_grafo_maior_componente = grafo.subgraph(maior_componente)
+
+# Identificar comunidades
+comunidades = nx.algorithms.community.girvan_newman(sub_grafo_maior_componente)
+
+# * Plotando comunidades
+# Extraia as comunidades do objeto gerado pelo algoritmo
+comunidades = tuple(sorted(c) for c in next(comunidades))
+
+# Crie um dicionário onde as chaves são os nós e os valores são os números das comunidades
+comunidades_dict = {node: i for i, com in enumerate(comunidades) for node in com}
+
+# Gere cores diferentes para cada comunidade
+cores = [comunidades_dict[node] for node in sub_grafo_maior_componente.nodes()]
+
+# Exportando dict de comunidades
+with open("comunidades_maior_componente_conexa.json", "w") as fp:
+    json.dump(comunidades_dict, fp)
+
+# Desenhe o grafo com cores diferentes para cada comunidade sem Label
+pos = nx.spring_layout(sub_grafo_maior_componente)  # Layout para posicionar os nós
+nx.draw(sub_grafo_maior_componente, pos, node_color=cores, with_labels=False)
+
+# Mostre o plot
+plt.show()
+
+# Desenhe o grafo com cores diferentes para cada comunidade com label
+pos = nx.spring_layout(sub_grafo_maior_componente)  # Layout para posicionar os nós
+nx.draw(sub_grafo_maior_componente, pos, node_color=cores, with_labels=True)
+
+# Mostre o plot
+plt.show()
