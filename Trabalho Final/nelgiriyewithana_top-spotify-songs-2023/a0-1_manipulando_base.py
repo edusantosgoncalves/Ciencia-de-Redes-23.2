@@ -1,11 +1,10 @@
 import pandas as pd
 import networkx as nx
 from itertools import combinations as cb
-import csv
 
 # * Leia o arquivo CSV original
 df = pd.read_csv(
-    r"E:\UNIRIO\23.2\CR\Trabalho Final\nelgiriyewithana_top-spotify-songs-2023\spotify-2023.csv",
+    r".\nelgiriyewithana_top-spotify-songs-2023\spotify-2023.csv",
     encoding="1252",
 )
 df_nos = pd.DataFrame(
@@ -41,7 +40,9 @@ for index, row in df.iterrows():
 df = pd.DataFrame(grafo.nodes)
 
 # Exportando o dataframe em csv
-df.to_csv("./nodes.csv", index=False)
+df.to_csv(r".\nelgiriyewithana_top-spotify-songs-2023\nodes.csv", index=False)
 
 # * Exportando lista de arestas
-nx.write_edgelist(grafo, "./edges.txt", delimiter=";")
+nx.write_edgelist(
+    grafo, r".\nelgiriyewithana_top-spotify-songs-2023\edges.txt", delimiter=";"
+)
